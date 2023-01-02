@@ -51,5 +51,11 @@
     <ClCompile Include="day1_test11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day1_test12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day1_test13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
