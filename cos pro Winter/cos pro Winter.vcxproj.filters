@@ -57,5 +57,26 @@
     <ClCompile Include="day1_test13.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day2_test14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_test15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_test16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_test17.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_test18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_test19.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_test20.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
