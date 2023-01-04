@@ -108,5 +108,35 @@
     <ClCompile Include="day3_모의고사2차_10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day3_모의고사3차_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_모의고사3차_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
